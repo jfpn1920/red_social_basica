@@ -9,6 +9,8 @@ En este sistema, cada usuario es representado como un objeto que puede establece
 
 El programa permite crear usuarios, agregar amigos de manera bidireccional y visualizar la lista de amistades de cada perfil. Todo esto se gestiona mediante un menú interactivo que facilita la experiencia del usuario.
 
+Este proyecto representa una base sólida para comprender cómo funcionan internamente las redes sociales.
+
 #
 ### 🧑‍💻 Lenguaje de programacion
 - Python
