@@ -7,9 +7,7 @@ El proyecto **Red Social Básica** es un sistema desarrollado en Python que simu
 
 En este sistema, cada usuario es representado como un objeto que puede establecer relaciones de amistad con otros usuarios. Estas relaciones se almacenan dinámicamente mediante listas, permitiendo modelar conexiones entre objetos de forma estructurada.
 
-El programa permite crear usuarios, agregar amigos de manera bidireccional y visualizar la lista de amistades de cada perfil. Todo esto se gestiona mediante un menú interactivo que facilita la experiencia del usuario.
-
-Este proyecto representa una base sólida para comprender cómo funcionan internamente las redes sociales.
+El programa permite crear usuarios, agregar amigos de manera bidireccional y visualizar la lista de amistades de cada perfil. Todo esto se gestiona mediante un menú interactivo que facilita la experiencia del usuario. Este proyecto representa una base sólida para comprender cómo funcionan internamente las redes sociales. aplicando conceptos fundamentales de clases, métodos, listas y relaciones entre objetos.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
